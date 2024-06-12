@@ -1,0 +1,5 @@
+# connect to database
+# enter latest measurments
+# by creating insert statement
+# INSERT INTO public.responstimes ("url", "measurements", "responsetime")
+# VALUES ("http://worldtimeapi.org/api/timezone/Europe/Berlin", "2024-06-06", 54782)
