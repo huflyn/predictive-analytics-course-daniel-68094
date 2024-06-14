@@ -68,7 +68,7 @@ file_exists = False
 try:
     with open(filename, "r") as csvfile:  # open file in read mode
         reader = csv.reader(csvfile)  
-        file_exists = any(reader)  
+        file_exists = any(reader)
 except FileNotFoundError:
     pass  # continues program w/o any action
 
