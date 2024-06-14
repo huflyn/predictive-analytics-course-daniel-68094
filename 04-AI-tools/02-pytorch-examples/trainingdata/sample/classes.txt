@@ -1,0 +1,9 @@
+bicycle
+broccoli
+bus
+car
+cat
+dog
+motorcycle
+person
+truck

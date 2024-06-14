@@ -1,0 +1,4 @@
+./images/train/0092ad2a-20-35-45-204.jpg
+./images/train/757f9281-20-38-58-713.jpg
+./images/train/65b5dff7-20-37-15-208.jpg
+./images/train/e08f8d4f-16-54-00-135.jpg

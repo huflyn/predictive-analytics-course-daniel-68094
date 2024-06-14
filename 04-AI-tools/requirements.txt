@@ -1,0 +1,7 @@
+ultralytics
+opencv-python
+torch
+#cuda-python
+torchvision 
+torchaudio
+ipykernel
